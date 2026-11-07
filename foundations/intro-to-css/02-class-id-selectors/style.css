@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: #f5445c;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.special {
+    font-size: 24px;
+}
+
+#nr2{
+    color: hsl(240, 100%, 39%);
+    font-size: 36px;
+}
+
+#nr4{
+    background-color: rgb(106, 252, 106);
+    font-weight: bold;
+    font-size: 24px;
+}
